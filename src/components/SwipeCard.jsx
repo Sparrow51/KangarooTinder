@@ -122,8 +122,10 @@ export default function SwipeCard({ kangaroo, index, isTop, forcedDir, onSwipe, 
             i
           </button>
         </div>
-        <p className="distance">📍 {kangaroo.distanceKm} km away</p>
-        <p className="tagline">{kangaroo.tagline}</p>
+        <p className="distance">
+          {kangaroo.tagline} · 📍 {kangaroo.distanceKm} km
+        </p>
+        <p className="tagline">{kangaroo.bio}</p>
         <ul className="chips">
           {kangaroo.interests.slice(0, 3).map((it) => (
             <li key={it}>{it}</li>

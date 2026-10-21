@@ -20,7 +20,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 16px;
+  gap: 8px;
+  padding: 10px 12px;
   padding-top: max(10px, env(safe-area-inset-top));
   background: var(--surface);
   border-bottom: 1px solid var(--border);
@@ -28,7 +29,7 @@
 
 .logo {
   white-space: nowrap;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 600;
   letter-spacing: -0.03em;
   background: var(--brand-grad);
@@ -52,7 +53,7 @@
   flex-direction: column;
   align-items: center;
   gap: 2px;
-  padding: 4px 10px;
+  padding: 4px 8px;
   border-radius: 10px;
   color: var(--text-muted);
   font-size: 0.7rem;
@@ -646,6 +647,10 @@
   overflow-x: auto;
   padding-bottom: 12px;
   margin-bottom: 12px;
+}
+
+.new-matches li {
+  flex: none;
 }
 
 .new-matches button {

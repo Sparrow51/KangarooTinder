@@ -1,7 +1,11 @@
 const TOOLS = [
-  { name: 'Higgsfield', role: 'Kangaroo profile photos', type: 'Image generator' },
-  { name: 'ChatGPT', role: 'Profile bios, taglines and chat replies', type: 'Language model' },
-  { name: 'Claude Code', role: 'All of the programming (React + Vite)', type: 'AI coding agent' },
+  { name: 'Higgsfield', role: 'All 44 kangaroo profile photos', type: 'Image generator' },
+  { name: 'ChatGPT', role: 'The 44 profile bios', type: 'Language model' },
+  {
+    name: 'Claude Code',
+    role: 'All of the programming (React + Vite), plus names, taglines, stats and chat lines',
+    type: 'AI coding agent',
+  },
 ]
 
 export default function About({ onReset }) {

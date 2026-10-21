@@ -1,150 +1,1498 @@
 [
   {
+    "id": "shazza",
+    "name": "Shazza",
+    "age": 11,
+    "distanceKm": 17,
+    "tagline": "🌴 Retro fashion queen",
+    "bio": "😎 Cool ears, strong legs, zero drama.",
+    "interests": [
+      "Street food",
+      "Streetwear",
+      "Hip-hop"
+    ],
+    "stats": {
+      "hopDistance": "10 m",
+      "pouch": "Full of love letters",
+      "favouriteSnack": "Fresh clover"
+    },
+    "photos": [
+      "images/kangaroos/shazza-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Cool ears, strong legs, zero drama. That’s me. And you?",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_065017_aea6458d-2c3c-4a5d-a9f1-a9492725ee27.png",
+      "bioLine": 14
+    }
+  },
+  {
+    "id": "sandy",
+    "name": "Sandy",
+    "age": 11,
+    "distanceKm": 9,
+    "tagline": "🐚 Beach bum & shirt borrower",
+    "bio": "❤️ I have a lot of love to pouch.",
+    "interests": [
+      "Surfing",
+      "Seashells",
+      "Rock pools"
+    ],
+    "stats": {
+      "hopDistance": "7 m",
+      "pouch": "Occupied by a joey",
+      "favouriteSnack": "Dandelions"
+    },
+    "photos": [
+      "images/kangaroos/sandy-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey! Do you also love love? Because I have a lot of it to pouch.",
+    "replies": [
+      "Haha love that. You seem like a beach person.",
+      "Sunrise swim this weekend? I’ll save you a spot on the sand.",
+      "Tide’s coming in, I need to hop! 🌊"
+    ],
+    "source": {
+      "image": "hf_20261021_065555_66b19c25-92a8-423c-a2ab-f3d552acc267.png",
+      "bioLine": 26
+    }
+  },
+  {
+    "id": "ash",
+    "name": "Ash",
+    "age": 10,
+    "distanceKm": 28,
+    "tagline": "🪨 Outback geologist",
+    "bio": "💕 No games, just genuine roo-mance.",
+    "interests": [
+      "Long hops",
+      "Grazing",
+      "Napping"
+    ],
+    "stats": {
+      "hopDistance": "9 m",
+      "pouch": "Holding my phone",
+      "favouriteSnack": "Fresh shoots"
+    },
+    "photos": [
+      "images/kangaroos/ash-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey. Every jump today was worth it, because it led to you.",
+    "replies": [
+      "Aww, you’re lovely. 🥰",
+      "What’s your idea of a perfect day? Mine is grazing and napping.",
+      "Time for my afternoon nap. Talk soon? 😴"
+    ],
+    "source": {
+      "image": "hf_20261021_070014_b470ade1-f358-4242-87bb-a43550245c4d.png",
+      "bioLine": 37
+    }
+  },
+  {
+    "id": "duncan",
+    "name": "Duncan",
+    "age": 9,
+    "distanceKm": 10,
+    "tagline": "✨ Fairy-light romantic",
+    "bio": "😏 My kicks are strong, but my hugs are stronger.",
+    "interests": [
+      "Fence repair",
+      "Campfires",
+      "Sunsets"
+    ],
+    "stats": {
+      "hopDistance": "5 m",
+      "pouch": "Full of snacks",
+      "favouriteSnack": "Fresh shoots"
+    },
+    "photos": [
+      "images/kangaroos/duncan-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "I put the fairy lights up for you. Too much?",
+    "replies": [
+      "Ha! You’d fit right in out here in the bush.",
+      "Ever slept under the stars? Nothing beats it.",
+      "Sun’s going down, time to hop home. Talk tomorrow? 🌅"
+    ],
+    "source": {
+      "image": "hf_20261021_065114_2038dca9-8c83-4be5-809e-add0b8af73b6.png",
+      "bioLine": 20
+    }
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "age": 11,
+    "distanceKm": 32,
+    "tagline": "🍊 Vintage tee collector",
+    "bio": "🌿 Grass-fed, free-spirited, and ready to mingle.",
+    "interests": [
+      "Street food",
+      "Streetwear",
+      "Skateboarding"
+    ],
+    "stats": {
+      "hopDistance": "9 m",
+      "pouch": "Full of snacks",
+      "favouriteSnack": "Fresh clover"
+    },
+    "photos": [
+      "images/kangaroos/mango-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Orange you glad we matched? 🍊",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_064802_e15085f4-287a-406b-a589-254e52032cf7.png",
+      "bioLine": 2
+    }
+  },
+  {
+    "id": "zara",
+    "name": "Zara",
+    "age": 11,
+    "distanceKm": 23,
+    "tagline": "🪩 Chrome shoes, no regrets",
+    "bio": "🦘 Swipe right if you're ready for a wild ride.",
+    "interests": [
+      "Photography",
+      "Art galleries",
+      "Modelling"
+    ],
+    "stats": {
+      "hopDistance": "8 m",
+      "pouch": "Not applicable",
+      "favouriteSnack": "Lucerne"
+    },
+    "photos": [
+      "images/kangaroos/zara-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hi! Swipe right was the right call. Obviously.",
+    "replies": [
+      "Cute. Very cute.",
+      "Tell me your best quality. Mine is my cheekbones.",
+      "Sorry darling, photoshoot in five. Ciao! 🖤"
+    ],
+    "source": {
+      "image": "hf_20261021_065911_cf6570fe-5bdd-4ff9-a9c6-8f1b83fa6320.png",
+      "bioLine": 36
+    }
+  },
+  {
+    "id": "dazza",
+    "name": "Dazza",
+    "age": 8,
+    "distanceKm": 24,
+    "tagline": "🎨 Graffiti artist & denim enthusiast",
+    "bio": "💋 Swipe right if you can handle a little kangaroo chaos.",
+    "interests": [
+      "Street food",
+      "Hip-hop",
+      "Skateboarding"
+    ],
+    "stats": {
+      "hopDistance": "8 m",
+      "pouch": "Mysterious",
+      "favouriteSnack": "Dandelions"
+    },
+    "photos": [
+      "images/kangaroos/dazza-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Nice profile. I would spray-paint your name on a wall (legally).",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_064805_2cf847c7-1eb6-42ac-8c36-c1305953c034.png",
+      "bioLine": 6
+    }
+  },
+  {
+    "id": "pearl",
+    "name": "Pearl",
+    "age": 4,
+    "distanceKm": 29,
+    "tagline": "📱 Influencer in training",
+    "bio": "💚 I bring the hops, you bring the love.",
+    "interests": [
+      "Skateboarding",
+      "Thrifting",
+      "City walks"
+    ],
+    "stats": {
+      "hopDistance": "8 m",
+      "pouch": "Not applicable",
+      "favouriteSnack": "Saltbush"
+    },
+    "photos": [
+      "images/kangaroos/pearl-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Okay be honest, is this my good side?",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_064803_c256dae9-9127-4daf-b0da-a8d1902f3eb3.png",
+      "bioLine": 3
+    }
+  },
+  {
+    "id": "daisy",
+    "name": "Daisy",
+    "age": 4,
+    "distanceKm": 11,
+    "tagline": "😊 Smiles at everyone",
+    "bio": "🦘 Searching for the one who makes every jump worthwhile.",
+    "interests": [
+      "Birdwatching",
+      "Grazing",
+      "Long hops"
+    ],
+    "stats": {
+      "hopDistance": "5 m",
+      "pouch": "Organised",
+      "favouriteSnack": "Dandelions"
+    },
+    "photos": [
+      "images/kangaroos/daisy-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hi hi hi! I’m smiling so much right now. 😊",
+    "replies": [
+      "Aww, you’re lovely. 🥰",
+      "What’s your idea of a perfect day? Mine is grazing and napping.",
+      "Time for my afternoon nap. Talk soon? 😴"
+    ],
+    "source": {
+      "image": "hf_20261021_070016_875b0e91-f977-4d09-a5d4-eb2f38f103ee.png",
+      "bioLine": 40
+    }
+  },
+  {
+    "id": "bazza",
+    "name": "Bazza",
+    "age": 11,
+    "distanceKm": 19,
+    "tagline": "💪 Leg day, every day",
+    "bio": "🌅 My ideal date? Sunset, eucalyptus, and you.",
+    "interests": [
+      "Sneakers",
+      "Hip-hop",
+      "Streetwear"
+    ],
+    "stats": {
+      "hopDistance": "10 m",
+      "pouch": "Mysterious",
+      "favouriteSnack": "Eucalyptus shoots"
+    },
+    "photos": [
+      "images/kangaroos/bazza-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey! Quick question: do you even hop, bro?",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_064804_bccd8328-93cf-4e07-bf89-143d7d4c2bab.png",
+      "bioLine": 5
+    }
+  },
+  {
+    "id": "shadow",
+    "name": "Shadow",
+    "age": 12,
+    "distanceKm": 18,
+    "tagline": "🌇 Mysterious silhouette",
+    "bio": "💋 Looking for a connection with a little extra bounce.",
+    "interests": [
+      "Seashells",
+      "Beach volleyball",
+      "Surfing"
+    ],
+    "stats": {
+      "hopDistance": "5 m",
+      "pouch": "Holding my phone",
+      "favouriteSnack": "Fresh clover"
+    },
+    "photos": [
+      "images/kangaroos/shadow-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "...hey. 🌇",
+    "replies": [
+      "Haha love that. You seem like a beach person.",
+      "Sunrise swim this weekend? I’ll save you a spot on the sand.",
+      "Tide’s coming in, I need to hop! 🌊"
+    ],
+    "source": {
+      "image": "hf_20261021_065905_d73618b3-07c4-4fbe-9fed-0a8a2699591f.png",
+      "bioLine": 32
+    }
+  },
+  {
+    "id": "gus",
+    "name": "Gus",
+    "age": 4,
+    "distanceKm": 20,
+    "tagline": "🌳 Park ranger (unofficial)",
+    "bio": "😌 I'm the whole package: ears, tail, and affection.",
+    "interests": [
+      "Gardening",
+      "Napping",
+      "Grazing"
+    ],
+    "stats": {
+      "hopDistance": "9 m",
+      "pouch": "Not applicable",
+      "favouriteSnack": "Saltbush"
+    },
+    "photos": [
+      "images/kangaroos/gus-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "G’day! Picnic under my favourite gum tree?",
+    "replies": [
+      "Aww, you’re lovely. 🥰",
+      "What’s your idea of a perfect day? Mine is grazing and napping.",
+      "Time for my afternoon nap. Talk soon? 😴"
+    ],
+    "source": {
+      "image": "hf_20261021_070015_f6de61f7-09fa-444e-b473-435b71d26f20.png",
+      "bioLine": 39
+    }
+  },
+  {
+    "id": "margot",
+    "name": "Margot",
+    "age": 7,
+    "distanceKm": 27,
+    "tagline": "🖤 Fashion week roo",
+    "bio": "🌞 My hobbies include hopping, snacking, and thinking about you.",
+    "interests": [
+      "Modelling",
+      "Coffee",
+      "Pilates"
+    ],
+    "stats": {
+      "hopDistance": "6 m",
+      "pouch": "Empty, room for two",
+      "favouriteSnack": "Eucalyptus shoots"
+    },
+    "photos": [
+      "images/kangaroos/margot-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Darling! You have impeccable taste in kangaroos.",
+    "replies": [
+      "Cute. Very cute.",
+      "Tell me your best quality. Mine is my cheekbones.",
+      "Sorry darling, photoshoot in five. Ciao! 🖤"
+    ],
+    "source": {
+      "image": "hf_20261021_065910_4e5623bb-54a5-4170-ad71-332e81ea5e17.png",
+      "bioLine": 35
+    }
+  },
+  {
+    "id": "coral",
+    "name": "Coral",
+    "age": 4,
+    "distanceKm": 25,
+    "tagline": "👜 Beach-bag packer",
+    "bio": "😎 Born to bounce, destined to romance.",
+    "interests": [
+      "Sunbathing",
+      "Surfing",
+      "Seashells"
+    ],
+    "stats": {
+      "hopDistance": "6 m",
+      "pouch": "Holding my phone",
+      "favouriteSnack": "Bottlebrush blossoms"
+    },
+    "photos": [
+      "images/kangaroos/coral-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hi! I packed snacks for two. Just saying.",
+    "replies": [
+      "Haha love that. You seem like a beach person.",
+      "Sunrise swim this weekend? I’ll save you a spot on the sand.",
+      "Tide’s coming in, I need to hop! 🌊"
+    ],
+    "source": {
+      "image": "hf_20261021_065600_92b819cd-ae3f-45ac-b04f-b798e9531707.png",
+      "bioLine": 27
+    }
+  },
+  {
+    "id": "bertie",
+    "name": "Bertie",
+    "age": 9,
+    "distanceKm": 15,
+    "tagline": "🍀 Clover connoisseur",
+    "bio": "🌅 Let's cuddle under the stars and forget the world.",
+    "interests": [
+      "Picnics",
+      "Long hops",
+      "Grazing"
+    ],
+    "stats": {
+      "hopDistance": "10 m",
+      "pouch": "Sand. Lots of sand",
+      "favouriteSnack": "Dandelions"
+    },
+    "photos": [
+      "images/kangaroos/bertie-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey! Do you like clover? Asking for my heart.",
+    "replies": [
+      "Aww, you’re lovely. 🥰",
+      "What’s your idea of a perfect day? Mine is grazing and napping.",
+      "Time for my afternoon nap. Talk soon? 😴"
+    ],
+    "source": {
+      "image": "hf_20261021_070018_c7da6784-f5f9-472b-8223-fa6d19451bd5.png",
+      "bioLine": 42
+    }
+  },
+  {
+    "id": "snowy",
+    "name": "Snowy",
+    "age": 7,
+    "distanceKm": 10,
+    "tagline": "❄️ Pale roo, warm heart",
+    "bio": "🦘 Your favourite kangaroo is only one swipe away.",
+    "interests": [
+      "Picnics",
+      "Grazing",
+      "Birdwatching"
+    ],
+    "stats": {
+      "hopDistance": "7 m",
+      "pouch": "Sand. Lots of sand",
+      "favouriteSnack": "Bottlebrush blossoms"
+    },
+    "photos": [
+      "images/kangaroos/snowy-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey! Don’t let the pale fur fool you, I’m very warm-hearted.",
+    "replies": [
+      "Aww, you’re lovely. 🥰",
+      "What’s your idea of a perfect day? Mine is grazing and napping.",
+      "Time for my afternoon nap. Talk soon? 😴"
+    ],
+    "source": {
+      "image": "hf_20261021_070020_f9d1d2eb-e545-473b-b884-b01b4f3efa06.png",
+      "bioLine": 43
+    }
+  },
+  {
+    "id": "kip",
+    "name": "Kip",
+    "age": 8,
+    "distanceKm": 9,
+    "tagline": "😴 Napper by day, cuddler by night",
+    "bio": "❤️ Not here to play hopscotch with your feelings. I'm here for real love.",
+    "interests": [
+      "Long hops",
+      "Birdwatching",
+      "Grazing"
+    ],
+    "stats": {
+      "hopDistance": "6 m",
+      "pouch": "Sand. Lots of sand",
+      "favouriteSnack": "Kangaroo grass"
+    },
+    "photos": [
+      "images/kangaroos/kip-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hi! Just woke up from a nap. Best wake-up call ever.",
+    "replies": [
+      "Aww, you’re lovely. 🥰",
+      "What’s your idea of a perfect day? Mine is grazing and napping.",
+      "Time for my afternoon nap. Talk soon? 😴"
+    ],
+    "source": {
+      "image": "hf_20261021_070022_fcc5af2a-77cd-4b24-a5c6-5d42df6f36c2.png",
+      "bioLine": 44
+    }
+  },
+  {
+    "id": "wally",
+    "name": "Wally",
+    "age": 11,
+    "distanceKm": 19,
+    "tagline": "🌅 Sunset chaser",
+    "bio": "🌅 Let's hop off into the sunset together.",
+    "interests": [
+      "Bushwalking",
+      "Sunsets",
+      "Campfires"
+    ],
+    "stats": {
+      "hopDistance": "6 m",
+      "pouch": "Mysterious",
+      "favouriteSnack": "Eucalyptus shoots"
+    },
+    "photos": [
+      "images/kangaroos/wally-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey you. The sunset’s nice, but have you seen your profile?",
+    "replies": [
+      "Ha! You’d fit right in out here in the bush.",
+      "Ever slept under the stars? Nothing beats it.",
+      "Sun’s going down, time to hop home. Talk tomorrow? 🌅"
+    ],
+    "source": {
+      "image": "hf_20261021_065113_279f3631-e29b-4f14-86da-baa73490002e.png",
+      "bioLine": 19
+    }
+  },
+  {
+    "id": "nigel",
+    "name": "Nigel",
+    "age": 6,
+    "distanceKm": 31,
+    "tagline": "🤓 Nerd with excellent glasses",
+    "bio": "🦘 Warning: may cause butterflies and spontaneous hopping.",
+    "interests": [
+      "TikTok",
+      "Mirror selfies",
+      "Parties"
+    ],
+    "stats": {
+      "hopDistance": "10 m",
+      "pouch": "Sand. Lots of sand",
+      "favouriteSnack": "Saltbush"
+    },
+    "photos": [
+      "images/kangaroos/nigel-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hi! Fun fact: a kangaroo can’t hop backwards. So, forward with us?",
+    "replies": [
+      "Omg stop, you’re making me blush 🙈",
+      "Wait, send me your best selfie. I’ll rate it.",
+      "Gotta go, my battery is at 1%! Text me 💕"
+    ],
+    "source": {
+      "image": "hf_20261021_065306_f5063cea-0fb2-49f5-9d34-d415d02c3f64.png",
+      "bioLine": 25
+    }
+  },
+  {
+    "id": "neville",
+    "name": "Neville",
+    "age": 4,
+    "distanceKm": 28,
+    "tagline": "👃 Nose-first explorer",
+    "bio": "🌿 Just a roo looking for my forever hopping partner.",
+    "interests": [
+      "Street food",
+      "Hip-hop",
+      "Sneakers"
+    ],
+    "stats": {
+      "hopDistance": "7 m",
+      "pouch": "Occupied by a joey",
+      "favouriteSnack": "Lucerne"
+    },
+    "photos": [
+      "images/kangaroos/neville-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "*sniff sniff* You smell like a great match.",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_064857_7fe350c1-ee1c-4f20-b1bd-55cd79f99db3.png",
+      "bioLine": 7
+    }
+  },
+  {
+    "id": "tilly",
+    "name": "Tilly",
+    "age": 9,
+    "distanceKm": 28,
+    "tagline": "🌸 Polite, sweet & a good listener",
+    "bio": "💕 Hopeless romantic with powerful legs.",
+    "interests": [
+      "Hip-hop",
+      "Graffiti",
+      "Thrifting"
+    ],
+    "stats": {
+      "hopDistance": "5 m",
+      "pouch": "Empty, room for two",
+      "favouriteSnack": "Wildflowers"
+    },
+    "photos": [
+      "images/kangaroos/tilly-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hi there! I hope your day is going hop-tastic. 🌸",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_064902_875a2cd3-3f98-4905-a238-9349e411d331.png",
+      "bioLine": 11
+    }
+  },
+  {
+    "id": "kylie",
+    "name": "Kylie",
+    "age": 4,
+    "distanceKm": 28,
+    "tagline": "💃 Dancer, can’t stop moving",
+    "bio": "🦘 I might steal your heart, but I promise to give it a good bounce.",
+    "interests": [
+      "Street food",
+      "Streetwear",
+      "Hip-hop"
+    ],
+    "stats": {
+      "hopDistance": "6 m",
+      "pouch": "Full of snacks",
+      "favouriteSnack": "Bottlebrush blossoms"
+    },
+    "photos": [
+      "images/kangaroos/kylie-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Finally, a match with taste! Wanna dance?",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_064900_36fb870f-f8b1-4540-9485-5ac0b9d3d791.png",
+      "bioLine": 9
+    }
+  },
+  {
+    "id": "banjo",
+    "name": "Banjo",
+    "age": 12,
+    "distanceKm": 32,
+    "tagline": "🎒 Bushwalker & campfire storyteller",
+    "bio": "💚 A little wild, a lot lovable.",
+    "interests": [
+      "Stargazing",
+      "Campfires",
+      "Fence repair"
+    ],
+    "stats": {
+      "hopDistance": "8 m",
+      "pouch": "Mysterious",
+      "favouriteSnack": "Wildflowers"
+    },
+    "photos": [
+      "images/kangaroos/banjo-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey! Got room in your backpack for one more roo?",
+    "replies": [
+      "Ha! You’d fit right in out here in the bush.",
+      "Ever slept under the stars? Nothing beats it.",
+      "Sun’s going down, time to hop home. Talk tomorrow? 🌅"
+    ],
+    "source": {
+      "image": "hf_20261021_065109_058e8e9b-1963-4ff4-9f80-0ca4f9c67fe8.png",
+      "bioLine": 18
+    }
+  },
+  {
+    "id": "dusty",
+    "name": "Dusty",
+    "age": 10,
+    "distanceKm": 33,
+    "tagline": "🏜️ Backyard landscaper",
+    "bio": "❤️ Big pouch, bigger heart.",
+    "interests": [
+      "Skateboarding",
+      "Sneakers",
+      "Streetwear"
+    ],
+    "stats": {
+      "hopDistance": "6 m",
+      "pouch": "Empty, room for two",
+      "favouriteSnack": "Dandelions"
+    },
+    "photos": [
+      "images/kangaroos/dusty-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey you! Fancy rolling around in some dirt together?",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_064859_4131f805-e80e-4981-9a96-8e13f4f24ab6.png",
+      "bioLine": 8
+    }
+  },
+  {
+    "id": "ruby",
+    "name": "Ruby",
+    "age": 12,
+    "distanceKm": 30,
+    "tagline": "🌙 Night owl, city roo",
+    "bio": "🌾 Looking for a roo-mate, not just a soulmate.",
+    "interests": [
+      "Street food",
+      "Graffiti",
+      "Streetwear"
+    ],
+    "stats": {
+      "hopDistance": "7 m",
+      "pouch": "Full of love letters",
+      "favouriteSnack": "Bottlebrush blossoms"
+    },
+    "photos": [
+      "images/kangaroos/ruby-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey stranger. Are you a night hopper too?",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_064903_6611bbf6-4d65-4417-91d5-e72e54345690.png",
+      "bioLine": 12
+    }
+  },
+  {
+    "id": "brooke",
+    "name": "Brooke",
+    "age": 5,
+    "distanceKm": 34,
+    "tagline": "🩳 Vintage shorts collector",
+    "bio": "💘 Single roo, looking for a kangaroo boo.",
+    "interests": [
+      "Parties",
+      "Fashion",
+      "Karaoke"
+    ],
+    "stats": {
+      "hopDistance": "8 m",
+      "pouch": "Mysterious",
+      "favouriteSnack": "Saltbush"
+    },
+    "photos": [
+      "images/kangaroos/brooke-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hi! I promise my mirror selfies are better in person.",
+    "replies": [
+      "Omg stop, you’re making me blush 🙈",
+      "Wait, send me your best selfie. I’ll rate it.",
+      "Gotta go, my battery is at 1%! Text me 💕"
+    ],
+    "source": {
+      "image": "hf_20261021_065304_fd83036e-515e-4e4b-b97f-f1b4dc47e99a.png",
+      "bioLine": 23
+    }
+  },
+  {
+    "id": "rocco",
+    "name": "Rocco",
+    "age": 10,
+    "distanceKm": 28,
+    "tagline": "🕶️ Skater, sunglasses on head always",
+    "bio": "🦘 My love language is hopping over to see you.",
+    "interests": [
+      "Skateboarding",
+      "Thrifting",
+      "Graffiti"
+    ],
+    "stats": {
+      "hopDistance": "7 m",
+      "pouch": "Full of love letters",
+      "favouriteSnack": "Fresh clover"
+    },
+    "photos": [
+      "images/kangaroos/rocco-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Yo. I’d take my sunnies off for you. Maybe.",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_065016_70c2150e-4b71-4b31-8e92-809aebf69b81.png",
+      "bioLine": 13
+    }
+  },
+  {
+    "id": "reef",
+    "name": "Reef",
+    "age": 9,
+    "distanceKm": 19,
+    "tagline": "🌊 Wave watcher",
+    "bio": "🌻 Let's skip the small talk and hop straight to love.",
+    "interests": [
+      "Rock pools",
+      "Surfing",
+      "Sunbathing"
+    ],
+    "stats": {
+      "hopDistance": "9 m",
+      "pouch": "Full of love letters",
+      "favouriteSnack": "Bottlebrush blossoms"
+    },
+    "photos": [
+      "images/kangaroos/reef-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey! Wanna catch some waves? I’ll do the hopping.",
+    "replies": [
+      "Haha love that. You seem like a beach person.",
+      "Sunrise swim this weekend? I’ll save you a spot on the sand.",
+      "Tide’s coming in, I need to hop! 🌊"
+    ],
+    "source": {
+      "image": "hf_20261021_065752_d3d142bf-ab47-438e-9636-e4d5746f4e7f.png",
+      "bioLine": 28
+    }
+  },
+  {
+    "id": "shelly",
+    "name": "Shelly",
+    "age": 11,
+    "distanceKm": 18,
+    "tagline": "🦀 Rock-pool explorer",
+    "bio": "🦘 Need someone who can keep up with my energy.",
+    "interests": [
+      "Swimming",
+      "Surfing",
+      "Beach volleyball"
+    ],
+    "stats": {
+      "hopDistance": "5 m",
+      "pouch": "Full of snacks",
+      "favouriteSnack": "Bottlebrush blossoms"
+    },
+    "photos": [
+      "images/kangaroos/shelly-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hi! I found you in the rock pools of Kangaroo Tinder.",
+    "replies": [
+      "Haha love that. You seem like a beach person.",
+      "Sunrise swim this weekend? I’ll save you a spot on the sand.",
+      "Tide’s coming in, I need to hop! 🌊"
+    ],
+    "source": {
+      "image": "hf_20261021_065902_935aea52-32a8-4750-811e-ec52b7fc772b.png",
+      "bioLine": 29
+    }
+  },
+  {
+    "id": "jazz",
+    "name": "Jazz",
+    "age": 4,
+    "distanceKm": 26,
+    "tagline": "🎧 Night-out photographer",
+    "bio": "🌿 I know all the best spots for a romantic graze.",
+    "interests": [
+      "Mirror selfies",
+      "Parties",
+      "Dancing"
+    ],
+    "stats": {
+      "hopDistance": "5 m",
+      "pouch": "Sand. Lots of sand",
+      "favouriteSnack": "Kangaroo grass"
+    },
+    "photos": [
+      "images/kangaroos/jazz-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey! Excuse the flash, I was blinded by your profile.",
+    "replies": [
+      "Omg stop, you’re making me blush 🙈",
+      "Wait, send me your best selfie. I’ll rate it.",
+      "Gotta go, my battery is at 1%! Text me 💕"
+    ],
+    "source": {
+      "image": "hf_20261021_065305_221c0aa9-52ca-49a0-bff1-88c8c79b39c4.png",
+      "bioLine": 24
+    }
+  },
+  {
+    "id": "kai",
+    "name": "Kai",
+    "age": 9,
+    "distanceKm": 35,
+    "tagline": "☀️ Sunrise surfer",
+    "bio": "💚 Your mum will love me. Your garden might not.",
+    "interests": [
+      "Seashells",
+      "Surfing",
+      "Swimming"
+    ],
+    "stats": {
+      "hopDistance": "7 m",
+      "pouch": "Organised",
+      "favouriteSnack": "Native grasses"
+    },
+    "photos": [
+      "images/kangaroos/kai-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "G’day! You’ve got me glowing brighter than the sunrise.",
+    "replies": [
+      "Haha love that. You seem like a beach person.",
+      "Sunrise swim this weekend? I’ll save you a spot on the sand.",
+      "Tide’s coming in, I need to hop! 🌊"
+    ],
+    "source": {
+      "image": "hf_20261021_065903_9071cf30-3cf2-4c57-a3e5-ef38e3827f12.png",
+      "bioLine": 30
+    }
+  },
+  {
+    "id": "jacko",
+    "name": "Jacko",
+    "age": 11,
+    "distanceKm": 17,
+    "tagline": "😛 Class clown since joeyhood",
+    "bio": "☀️ Seeking someone to share sunny days and leafy snacks with.",
+    "interests": [
+      "Thrifting",
+      "City walks",
+      "Graffiti"
+    ],
+    "stats": {
+      "hopDistance": "9 m",
+      "pouch": "Sand. Lots of sand",
+      "favouriteSnack": "Bottlebrush blossoms"
+    },
+    "photos": [
+      "images/kangaroos/jacko-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Bleh! 😛 That’s my flirting face.",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_064901_f3d59399-cca7-4f5d-8c62-480aafdadcb3.png",
+      "bioLine": 10
+    }
+  },
+  {
+    "id": "gazza",
+    "name": "Gazza",
+    "age": 10,
+    "distanceKm": 24,
+    "tagline": "🧥 Puffer vest connoisseur",
+    "bio": "❤️ Ready to leap into something serious.",
+    "interests": [
+      "Streetwear",
+      "Street food",
+      "City walks"
+    ],
+    "stats": {
+      "hopDistance": "8 m",
+      "pouch": "Organised",
+      "favouriteSnack": "Bottlebrush blossoms"
+    },
+    "photos": [
+      "images/kangaroos/gazza-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey! I wore my best vest for this match.",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_065020_3049d3c8-e1f1-4d0d-b5cb-e3f91911ae2f.png",
+      "bioLine": 15
+    }
+  },
+  {
+    "id": "sheila",
+    "name": "Sheila",
+    "age": 8,
+    "distanceKm": 4,
+    "tagline": "🏡 Homebody, fence-line patroller",
+    "bio": "🌿 Let's turn two lonely kangaroos into one happy pair.",
+    "interests": [
+      "Long hops",
+      "Gardening",
+      "Grazing"
+    ],
+    "stats": {
+      "hopDistance": "7 m",
+      "pouch": "Not applicable",
+      "favouriteSnack": "Eucalyptus shoots"
+    },
+    "photos": [
+      "images/kangaroos/sheila-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hi! My joey says you look trustworthy.",
+    "replies": [
+      "Aww, you’re lovely. 🥰",
+      "What’s your idea of a perfect day? Mine is grazing and napping.",
+      "Time for my afternoon nap. Talk soon? 😴"
+    ],
+    "source": {
+      "image": "hf_20261021_070015_f6ce5213-87ec-4d47-a6b1-544e8f72169e.png",
+      "bioLine": 38
+    }
+  },
+  {
+    "id": "sunny",
+    "name": "Sunny",
+    "age": 12,
+    "distanceKm": 35,
+    "tagline": "🏖️ Lifeguard (self-appointed)",
+    "bio": "🌿 Let's make our own little patch of paradise.",
+    "interests": [
+      "Surfing",
+      "Swimming",
+      "Sunbathing"
+    ],
+    "stats": {
+      "hopDistance": "9 m",
+      "pouch": "Mysterious",
+      "favouriteSnack": "Saltbush"
+    },
+    "photos": [
+      "images/kangaroos/sunny-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey! Need someone to keep an eye on you at the beach?",
+    "replies": [
+      "Haha love that. You seem like a beach person.",
+      "Sunrise swim this weekend? I’ll save you a spot on the sand.",
+      "Tide’s coming in, I need to hop! 🌊"
+    ],
+    "source": {
+      "image": "hf_20261021_065904_4ca27668-933c-4a39-9273-936f79e8219a.png",
+      "bioLine": 31
+    }
+  },
+  {
+    "id": "hopscotch",
+    "name": "Hopscotch",
+    "age": 4,
+    "distanceKm": 1,
+    "tagline": "⚽ Sunday league striker",
+    "bio": "🌿 Swipe right and let's make some wild memories.",
+    "interests": [
+      "Street food",
+      "Sneakers",
+      "Thrifting"
+    ],
+    "stats": {
+      "hopDistance": "5 m",
+      "pouch": "Mysterious",
+      "favouriteSnack": "Saltbush"
+    },
+    "photos": [
+      "images/kangaroos/hopscotch-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "You’ve been chosen as my teammate. No take-backs!",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_065021_fe40d7fa-44aa-45d2-ae47-d2c7e2f6b696.png",
+      "bioLine": 16
+    }
+  },
+  {
     "id": "skippy",
     "name": "Skippy",
-    "age": 6,
-    "distanceKm": 3,
-    "tagline": "TODO: ChatGPT tagline",
-    "bio": "TODO: replace with ChatGPT bio. Placeholder: Professional hopper, amateur boxer. Looking for someone to share a sunset and some fresh grass with.",
-    "interests": ["Boxing", "Sunsets", "Long hops"],
-    "stats": { "hopDistance": "8 m", "pouch": "Empty, room for two", "favouriteSnack": "Kangaroo grass" },
-    "photos": ["images/kangaroos/skippy-1.jpg", "images/kangaroos/skippy-2.jpg"],
-    "likesYou": true,
-    "aiText": false,
-    "aiImage": false,
-    "openingLine": "TODO: ChatGPT opening line. G'day! Did it hurt when you hopped down from heaven?",
+    "age": 4,
+    "distanceKm": 21,
+    "tagline": "🏙️ Street photographer (mostly selfies)",
+    "bio": "🦘 Looking for someone to hop into my heart. ❤️",
+    "interests": [
+      "Streetwear",
+      "Street food",
+      "Sneakers"
+    ],
+    "stats": {
+      "hopDistance": "9 m",
+      "pouch": "Sand. Lots of sand",
+      "favouriteSnack": "Fresh shoots"
+    },
+    "photos": [
+      "images/kangaroos/skippy-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "G'day! Did it hurt when you hopped down from heaven?",
     "replies": [
-      "TODO: ChatGPT reply 1. Haha, you're cute for a non-marsupial.",
-      "TODO: ChatGPT reply 2. Want to grab some grass this weekend?",
-      "TODO: ChatGPT reply 3. Sorry, I have to hop – the mob is calling!"
-    ]
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_064801_98276067-fa65-4f1f-9091-483f9d27967f.png",
+      "bioLine": 1
+    }
+  },
+  {
+    "id": "bruce",
+    "name": "Bruce",
+    "age": 8,
+    "distanceKm": 23,
+    "tagline": "🚦 Professional footpath stander",
+    "bio": "🦘 Professional hopper, amateur heartbreaker.",
+    "interests": [
+      "Thrifting",
+      "City walks",
+      "Sneakers"
+    ],
+    "stats": {
+      "hopDistance": "10 m",
+      "pouch": "Full of snacks",
+      "favouriteSnack": "Native grasses"
+    },
+    "photos": [
+      "images/kangaroos/bruce-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey. I stood on that corner all day hoping someone like you would walk by.",
+    "replies": [
+      "Haha, you’re funny for a non-marsupial.",
+      "So what’s your go-to snack? Mine’s fresh grass from the skate park.",
+      "Gotta hop, the crew is waiting. Catch you later! 🛹"
+    ],
+    "source": {
+      "image": "hf_20261021_064803_ff1255dd-db50-492c-8787-e7703964a613.png",
+      "bioLine": 4
+    }
+  },
+  {
+    "id": "macca",
+    "name": "Macca",
+    "age": 3,
+    "distanceKm": 23,
+    "tagline": "🧢 Bedroom DJ & bling lover",
+    "bio": "🌱 Grass is greener when we're together.",
+    "interests": [
+      "TikTok",
+      "Karaoke",
+      "Mirror selfies"
+    ],
+    "stats": {
+      "hopDistance": "5 m",
+      "pouch": "Sand. Lots of sand",
+      "favouriteSnack": "Bottlebrush blossoms"
+    },
+    "photos": [
+      "images/kangaroos/macca-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Yo! This match is louder than my speakers. 🔊",
+    "replies": [
+      "Omg stop, you’re making me blush 🙈",
+      "Wait, send me your best selfie. I’ll rate it.",
+      "Gotta go, my battery is at 1%! Text me 💕"
+    ],
+    "source": {
+      "image": "hf_20261021_065301_9a5b7eb6-c417-45b6-8370-3f8944e28737.png",
+      "bioLine": 21
+    }
+  },
+  {
+    "id": "boomer",
+    "name": "Boomer",
+    "age": 7,
+    "distanceKm": 5,
+    "tagline": "🏋️ Big red, gentle giant",
+    "bio": "❤️ Strong legs, soft heart, excellent cuddles.",
+    "interests": [
+      "Photography",
+      "Coffee",
+      "Fashion"
+    ],
+    "stats": {
+      "hopDistance": "7 m",
+      "pouch": "Holding my phone",
+      "favouriteSnack": "Fresh clover"
+    },
+    "photos": [
+      "images/kangaroos/boomer-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Sup. Strong legs, soft heart. Mostly soft heart.",
+    "replies": [
+      "Cute. Very cute.",
+      "Tell me your best quality. Mine is my cheekbones.",
+      "Sorry darling, photoshoot in five. Ciao! 🖤"
+    ],
+    "source": {
+      "image": "hf_20261021_065909_ad9f1053-a944-4eb4-8111-c50e13f78046.png",
+      "bioLine": 34
+    }
+  },
+  {
+    "id": "willow",
+    "name": "Willow",
+    "age": 7,
+    "distanceKm": 2,
+    "tagline": "🌾 Early-morning grazer",
+    "bio": "💚 I can jump high, but you make my heart soar higher.",
+    "interests": [
+      "Gardening",
+      "Birdwatching",
+      "Picnics"
+    ],
+    "stats": {
+      "hopDistance": "7 m",
+      "pouch": "Occupied by a joey",
+      "favouriteSnack": "Fresh shoots"
+    },
+    "photos": [
+      "images/kangaroos/willow-1.jpg"
+    ],
+    "likesYou": true,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Good morning! Or evening. Either way, hi!",
+    "replies": [
+      "Aww, you’re lovely. 🥰",
+      "What’s your idea of a perfect day? Mine is grazing and napping.",
+      "Time for my afternoon nap. Talk soon? 😴"
+    ],
+    "source": {
+      "image": "hf_20261021_070018_c6d5a3e6-6cd9-47f7-b2a2-ca5687e63ce9.png",
+      "bioLine": 41
+    }
+  },
+  {
+    "id": "tash",
+    "name": "Tash",
+    "age": 7,
+    "distanceKm": 29,
+    "tagline": "🪩 Party roo, mirror selfie pro",
+    "bio": "🦘 Looking for someone who makes my heart go boing.",
+    "interests": [
+      "Karaoke",
+      "Mirror selfies",
+      "Fashion"
+    ],
+    "stats": {
+      "hopDistance": "8 m",
+      "pouch": "Mysterious",
+      "favouriteSnack": "Lucerne"
+    },
+    "photos": [
+      "images/kangaroos/tash-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Heyyy! Flash on, feelings on. 📸",
+    "replies": [
+      "Omg stop, you’re making me blush 🙈",
+      "Wait, send me your best selfie. I’ll rate it.",
+      "Gotta go, my battery is at 1%! Text me 💕"
+    ],
+    "source": {
+      "image": "hf_20261021_065302_675406ed-a5f4-4465-81ad-57aae52977e2.png",
+      "bioLine": 22
+    }
+  },
+  {
+    "id": "clancy",
+    "name": "Clancy",
+    "age": 12,
+    "distanceKm": 3,
+    "tagline": "🌲 Farmhand, fence leaner",
+    "bio": "🦘 I don't chase love. I bounce toward it.",
+    "interests": [
+      "Fence repair",
+      "Country music",
+      "Stargazing"
+    ],
+    "stats": {
+      "hopDistance": "6 m",
+      "pouch": "Empty, room for two",
+      "favouriteSnack": "Native grasses"
+    },
+    "photos": [
+      "images/kangaroos/clancy-1.jpg"
+    ],
+    "likesYou": false,
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "G'day mate. Lovely evening for a lean on the fence, isn’t it?",
+    "replies": [
+      "Ha! You’d fit right in out here in the bush.",
+      "Ever slept under the stars? Nothing beats it.",
+      "Sun’s going down, time to hop home. Talk tomorrow? 🌅"
+    ],
+    "source": {
+      "image": "hf_20261021_065105_64b2af98-d415-4d87-ad48-bf68d24f0f44.png",
+      "bioLine": 17
+    }
   },
   {
     "id": "matilda",
     "name": "Matilda",
     "age": 5,
     "distanceKm": 7,
-    "tagline": "TODO: ChatGPT tagline",
-    "bio": "TODO: replace with ChatGPT bio. Placeholder: Waltzing through life. Yoga in the morning, stargazing at night.",
-    "interests": ["Yoga", "Stargazing", "Waltzing"],
-    "stats": { "hopDistance": "6 m", "pouch": "Organised", "favouriteSnack": "Wildflowers" },
-    "photos": ["images/kangaroos/matilda-1.jpg", "images/kangaroos/matilda-2.jpg"],
+    "tagline": "📸 Model, studio regular",
+    "bio": "🦘 I'll bring the charm if you bring the clover.",
+    "interests": [
+      "Coffee",
+      "Modelling",
+      "Photography"
+    ],
+    "stats": {
+      "hopDistance": "10 m",
+      "pouch": "Organised",
+      "favouriteSnack": "Fresh clover"
+    },
+    "photos": [
+      "images/kangaroos/matilda-1.jpg"
+    ],
     "likesYou": true,
-    "aiText": false,
-    "aiImage": false,
-    "openingLine": "TODO: ChatGPT opening line. Hey you! Fancy a waltz?",
+    "aiText": true,
+    "aiImage": true,
+    "openingLine": "Hey you! Fancy a waltz?",
     "replies": [
-      "TODO: ChatGPT reply 1. Oh stop it, you're making me blush under all this fur.",
-      "TODO: ChatGPT reply 2. Tell me your favourite constellation.",
-      "TODO: ChatGPT reply 3. I'm hopping off to bed – talk tomorrow?"
-    ]
-  },
-  {
-    "id": "boomer",
-    "name": "Boomer",
-    "age": 9,
-    "distanceKm": 12,
-    "tagline": "TODO: ChatGPT tagline",
-    "bio": "TODO: replace with ChatGPT bio. Placeholder: Big, red and gentle. Gym every day (I just stand there and look strong).",
-    "interests": ["Gym", "Napping in shade", "BBQ smell"],
-    "stats": { "hopDistance": "9 m", "pouch": "Not applicable", "favouriteSnack": "Saltbush" },
-    "photos": ["images/kangaroos/boomer-1.jpg", "images/kangaroos/boomer-2.jpg"],
-    "likesYou": false,
-    "aiText": false,
-    "aiImage": false,
-    "openingLine": "TODO: ChatGPT opening line. Sup.",
-    "replies": ["TODO: ChatGPT reply 1. Cool cool."]
-  },
-  {
-    "id": "kylie",
-    "name": "Kylie",
-    "age": 4,
-    "distanceKm": 2,
-    "tagline": "TODO: ChatGPT tagline",
-    "bio": "TODO: replace with ChatGPT bio. Placeholder: Can't get you out of my head. Karaoke queen of the outback.",
-    "interests": ["Karaoke", "Dancing", "Road trips"],
-    "stats": { "hopDistance": "7 m", "pouch": "Full of snacks", "favouriteSnack": "Clover" },
-    "photos": ["images/kangaroos/kylie-1.jpg", "images/kangaroos/kylie-2.jpg"],
-    "likesYou": true,
-    "aiText": false,
-    "aiImage": false,
-    "openingLine": "TODO: ChatGPT opening line. Finally a match with taste!",
-    "replies": [
-      "TODO: ChatGPT reply 1. What's your go-to karaoke song?",
-      "TODO: ChatGPT reply 2. Okay that's iconic.",
-      "TODO: ChatGPT reply 3. Duet next Friday? It's a date."
-    ]
-  },
-  {
-    "id": "hopscotch",
-    "name": "Hopscotch",
-    "age": 3,
-    "distanceKm": 18,
-    "tagline": "TODO: ChatGPT tagline",
-    "bio": "TODO: replace with ChatGPT bio. Placeholder: Young, wild and always hopping. Swipe right if you can keep up.",
-    "interests": ["Parkour", "Games", "Sprinting"],
-    "stats": { "hopDistance": "10 m", "pouch": "Lost my keys in it", "favouriteSnack": "Fresh shoots" },
-    "photos": ["images/kangaroos/hopscotch-1.jpg", "images/kangaroos/hopscotch-2.jpg"],
-    "likesYou": false,
-    "aiText": false,
-    "aiImage": false,
-    "openingLine": "TODO: ChatGPT opening line. Race you!",
-    "replies": ["TODO: ChatGPT reply 1. Too slow!"]
-  },
-  {
-    "id": "sheila",
-    "name": "Sheila",
-    "age": 7,
-    "distanceKm": 5,
-    "tagline": "TODO: ChatGPT tagline",
-    "bio": "TODO: replace with ChatGPT bio. Placeholder: Mum of one joey, CEO of the mob. Looking for someone reliable who doesn't mind a little extra passenger.",
-    "interests": ["Leadership", "Family", "Picnics"],
-    "stats": { "hopDistance": "6 m", "pouch": "Occupied (sorry)", "favouriteSnack": "Native grasses" },
-    "photos": ["images/kangaroos/sheila-1.jpg", "images/kangaroos/sheila-2.jpg"],
-    "likesYou": true,
-    "aiText": false,
-    "aiImage": false,
-    "openingLine": "TODO: ChatGPT opening line. My joey says you look trustworthy.",
-    "replies": [
-      "TODO: ChatGPT reply 1. Ha! Good answer.",
-      "TODO: ChatGPT reply 2. Are you a morning hopper or a night hopper?",
-      "TODO: ChatGPT reply 3. Picnic on Sunday? The joey is coming too."
-    ]
-  },
-  {
-    "id": "rooben",
-    "name": "Roo-ben",
-    "age": 8,
-    "distanceKm": 9,
-    "tagline": "TODO: ChatGPT tagline",
-    "bio": "TODO: replace with ChatGPT bio. Placeholder: Poet, philosopher, part-time sandwich thief at the campsite.",
-    "interests": ["Poetry", "Philosophy", "Camping"],
-    "stats": { "hopDistance": "7 m", "pouch": "Full of poems", "favouriteSnack": "Stolen sandwiches" },
-    "photos": ["images/kangaroos/rooben-1.jpg", "images/kangaroos/rooben-2.jpg"],
-    "likesYou": true,
-    "aiText": false,
-    "aiImage": false,
-    "openingLine": "TODO: ChatGPT opening line. Roses are red, the outback is wide...",
-    "replies": [
-      "TODO: ChatGPT reply 1. ...and you just made my tail twitch with pride.",
-      "TODO: ChatGPT reply 2. Do you believe in love at first hop?",
-      "TODO: ChatGPT reply 3. I'll write you a sonnet tonight."
-    ]
-  },
-  {
-    "id": "joey-bloom",
-    "name": "Joey Bloom",
-    "age": 4,
-    "distanceKm": 15,
-    "tagline": "TODO: ChatGPT tagline",
-    "bio": "TODO: replace with ChatGPT bio. Placeholder: Plant lover, flower sniffer, terrible at hide-and-seek (the tail gives me away).",
-    "interests": ["Gardening", "Flowers", "Hide and seek"],
-    "stats": { "hopDistance": "5 m", "pouch": "Seeds for planting", "favouriteSnack": "Bottlebrush blossoms" },
-    "photos": ["images/kangaroos/joey-bloom-1.jpg", "images/kangaroos/joey-bloom-2.jpg"],
-    "likesYou": false,
-    "aiText": false,
-    "aiImage": false,
-    "openingLine": "TODO: ChatGPT opening line. Hi! Do you like flowers?",
-    "replies": ["TODO: ChatGPT reply 1. Me too!"]
+      "Cute. Very cute.",
+      "Tell me your best quality. Mine is my cheekbones.",
+      "Sorry darling, photoshoot in five. Ciao! 🖤"
+    ],
+    "source": {
+      "image": "hf_20261021_065908_95074cd7-8493-4d77-9392-00c9a87a86d9.png",
+      "bioLine": 33
+    }
   }
 ]
