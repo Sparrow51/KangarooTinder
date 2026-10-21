@@ -1,5 +1,7 @@
 # 🦘 Kangaroo Tinder
 
+**Live site:** https://sparrow51.github.io/KangarooTinder/
+
 A Tinder-style dating app for kangaroos, made with generative AI:
 
 | Tool | Used for |
