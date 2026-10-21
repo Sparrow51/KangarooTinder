@@ -1,0 +1,150 @@
+[
+  {
+    "id": "skippy",
+    "name": "Skippy",
+    "age": 6,
+    "distanceKm": 3,
+    "tagline": "TODO: ChatGPT tagline",
+    "bio": "TODO: replace with ChatGPT bio. Placeholder: Professional hopper, amateur boxer. Looking for someone to share a sunset and some fresh grass with.",
+    "interests": ["Boxing", "Sunsets", "Long hops"],
+    "stats": { "hopDistance": "8 m", "pouch": "Empty, room for two", "favouriteSnack": "Kangaroo grass" },
+    "photos": ["images/kangaroos/skippy-1.jpg", "images/kangaroos/skippy-2.jpg"],
+    "likesYou": true,
+    "aiText": false,
+    "aiImage": false,
+    "openingLine": "TODO: ChatGPT opening line. G'day! Did it hurt when you hopped down from heaven?",
+    "replies": [
+      "TODO: ChatGPT reply 1. Haha, you're cute for a non-marsupial.",
+      "TODO: ChatGPT reply 2. Want to grab some grass this weekend?",
+      "TODO: ChatGPT reply 3. Sorry, I have to hop – the mob is calling!"
+    ]
+  },
+  {
+    "id": "matilda",
+    "name": "Matilda",
+    "age": 5,
+    "distanceKm": 7,
+    "tagline": "TODO: ChatGPT tagline",
+    "bio": "TODO: replace with ChatGPT bio. Placeholder: Waltzing through life. Yoga in the morning, stargazing at night.",
+    "interests": ["Yoga", "Stargazing", "Waltzing"],
+    "stats": { "hopDistance": "6 m", "pouch": "Organised", "favouriteSnack": "Wildflowers" },
+    "photos": ["images/kangaroos/matilda-1.jpg", "images/kangaroos/matilda-2.jpg"],
+    "likesYou": true,
+    "aiText": false,
+    "aiImage": false,
+    "openingLine": "TODO: ChatGPT opening line. Hey you! Fancy a waltz?",
+    "replies": [
+      "TODO: ChatGPT reply 1. Oh stop it, you're making me blush under all this fur.",
+      "TODO: ChatGPT reply 2. Tell me your favourite constellation.",
+      "TODO: ChatGPT reply 3. I'm hopping off to bed – talk tomorrow?"
+    ]
+  },
+  {
+    "id": "boomer",
+    "name": "Boomer",
+    "age": 9,
+    "distanceKm": 12,
+    "tagline": "TODO: ChatGPT tagline",
+    "bio": "TODO: replace with ChatGPT bio. Placeholder: Big, red and gentle. Gym every day (I just stand there and look strong).",
+    "interests": ["Gym", "Napping in shade", "BBQ smell"],
+    "stats": { "hopDistance": "9 m", "pouch": "Not applicable", "favouriteSnack": "Saltbush" },
+    "photos": ["images/kangaroos/boomer-1.jpg", "images/kangaroos/boomer-2.jpg"],
+    "likesYou": false,
+    "aiText": false,
+    "aiImage": false,
+    "openingLine": "TODO: ChatGPT opening line. Sup.",
+    "replies": ["TODO: ChatGPT reply 1. Cool cool."]
+  },
+  {
+    "id": "kylie",
+    "name": "Kylie",
+    "age": 4,
+    "distanceKm": 2,
+    "tagline": "TODO: ChatGPT tagline",
+    "bio": "TODO: replace with ChatGPT bio. Placeholder: Can't get you out of my head. Karaoke queen of the outback.",
+    "interests": ["Karaoke", "Dancing", "Road trips"],
+    "stats": { "hopDistance": "7 m", "pouch": "Full of snacks", "favouriteSnack": "Clover" },
+    "photos": ["images/kangaroos/kylie-1.jpg", "images/kangaroos/kylie-2.jpg"],
+    "likesYou": true,
+    "aiText": false,
+    "aiImage": false,
+    "openingLine": "TODO: ChatGPT opening line. Finally a match with taste!",
+    "replies": [
+      "TODO: ChatGPT reply 1. What's your go-to karaoke song?",
+      "TODO: ChatGPT reply 2. Okay that's iconic.",
+      "TODO: ChatGPT reply 3. Duet next Friday? It's a date."
+    ]
+  },
+  {
+    "id": "hopscotch",
+    "name": "Hopscotch",
+    "age": 3,
+    "distanceKm": 18,
+    "tagline": "TODO: ChatGPT tagline",
+    "bio": "TODO: replace with ChatGPT bio. Placeholder: Young, wild and always hopping. Swipe right if you can keep up.",
+    "interests": ["Parkour", "Games", "Sprinting"],
+    "stats": { "hopDistance": "10 m", "pouch": "Lost my keys in it", "favouriteSnack": "Fresh shoots" },
+    "photos": ["images/kangaroos/hopscotch-1.jpg", "images/kangaroos/hopscotch-2.jpg"],
+    "likesYou": false,
+    "aiText": false,
+    "aiImage": false,
+    "openingLine": "TODO: ChatGPT opening line. Race you!",
+    "replies": ["TODO: ChatGPT reply 1. Too slow!"]
+  },
+  {
+    "id": "sheila",
+    "name": "Sheila",
+    "age": 7,
+    "distanceKm": 5,
+    "tagline": "TODO: ChatGPT tagline",
+    "bio": "TODO: replace with ChatGPT bio. Placeholder: Mum of one joey, CEO of the mob. Looking for someone reliable who doesn't mind a little extra passenger.",
+    "interests": ["Leadership", "Family", "Picnics"],
+    "stats": { "hopDistance": "6 m", "pouch": "Occupied (sorry)", "favouriteSnack": "Native grasses" },
+    "photos": ["images/kangaroos/sheila-1.jpg", "images/kangaroos/sheila-2.jpg"],
+    "likesYou": true,
+    "aiText": false,
+    "aiImage": false,
+    "openingLine": "TODO: ChatGPT opening line. My joey says you look trustworthy.",
+    "replies": [
+      "TODO: ChatGPT reply 1. Ha! Good answer.",
+      "TODO: ChatGPT reply 2. Are you a morning hopper or a night hopper?",
+      "TODO: ChatGPT reply 3. Picnic on Sunday? The joey is coming too."
+    ]
+  },
+  {
+    "id": "rooben",
+    "name": "Roo-ben",
+    "age": 8,
+    "distanceKm": 9,
+    "tagline": "TODO: ChatGPT tagline",
+    "bio": "TODO: replace with ChatGPT bio. Placeholder: Poet, philosopher, part-time sandwich thief at the campsite.",
+    "interests": ["Poetry", "Philosophy", "Camping"],
+    "stats": { "hopDistance": "7 m", "pouch": "Full of poems", "favouriteSnack": "Stolen sandwiches" },
+    "photos": ["images/kangaroos/rooben-1.jpg", "images/kangaroos/rooben-2.jpg"],
+    "likesYou": true,
+    "aiText": false,
+    "aiImage": false,
+    "openingLine": "TODO: ChatGPT opening line. Roses are red, the outback is wide...",
+    "replies": [
+      "TODO: ChatGPT reply 1. ...and you just made my tail twitch with pride.",
+      "TODO: ChatGPT reply 2. Do you believe in love at first hop?",
+      "TODO: ChatGPT reply 3. I'll write you a sonnet tonight."
+    ]
+  },
+  {
+    "id": "joey-bloom",
+    "name": "Joey Bloom",
+    "age": 4,
+    "distanceKm": 15,
+    "tagline": "TODO: ChatGPT tagline",
+    "bio": "TODO: replace with ChatGPT bio. Placeholder: Plant lover, flower sniffer, terrible at hide-and-seek (the tail gives me away).",
+    "interests": ["Gardening", "Flowers", "Hide and seek"],
+    "stats": { "hopDistance": "5 m", "pouch": "Seeds for planting", "favouriteSnack": "Bottlebrush blossoms" },
+    "photos": ["images/kangaroos/joey-bloom-1.jpg", "images/kangaroos/joey-bloom-2.jpg"],
+    "likesYou": false,
+    "aiText": false,
+    "aiImage": false,
+    "openingLine": "TODO: ChatGPT opening line. Hi! Do you like flowers?",
+    "replies": ["TODO: ChatGPT reply 1. Me too!"]
+  }
+]
